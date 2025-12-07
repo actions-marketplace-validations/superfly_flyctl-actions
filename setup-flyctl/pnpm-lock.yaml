@@ -31,8 +31,8 @@ importers:
         specifier: 22.1.0
         version: 22.1.0
       '@vercel/ncc':
-        specifier: 0.38.1
-        version: 0.38.1
+        specifier: 0.38.4
+        version: 0.38.4
       typescript:
         specifier: 5.5.4
         version: 5.5.4
@@ -120,8 +120,8 @@ packages:
   '@types/node@22.1.0':
     resolution: {integrity: sha512-AOmuRF0R2/5j1knA3c6G3HOk523Ga+l+ZXltX8SF1+5oqcXijjfTd8fY3XRZqSihEu9XhtQnKYLmkFaoxgsJHw==}
 
-  '@vercel/ncc@0.38.1':
-    resolution: {integrity: sha512-IBBb+iI2NLu4VQn3Vwldyi2QwaXt5+hTyh58ggAMoCGE6DJmPvwL3KPBWcJl1m9LYPChBLE980Jw+CS4Wokqxw==}
+  '@vercel/ncc@0.38.4':
+    resolution: {integrity: sha512-8LwjnlP39s08C08J5NstzriPvW1SP8Zfpp1BvC2sI35kPeZnHfxVkCwu4/+Wodgnd60UtT1n8K8zw+Mp7J9JmQ==}
     hasBin: true
 
   semver@6.3.1:
@@ -225,7 +225,7 @@ snapshots:
     dependencies:
       undici-types: 6.13.0
 
-  '@vercel/ncc@0.38.1': {}
+  '@vercel/ncc@0.38.4': {}
 
   semver@6.3.1: {}
 
