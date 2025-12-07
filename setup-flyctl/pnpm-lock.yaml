@@ -25,8 +25,8 @@ importers:
         specifier: 20.1.4
         version: 20.1.4
       '@tsconfig/strictest':
-        specifier: 2.0.5
-        version: 2.0.5
+        specifier: 2.0.8
+        version: 2.0.8
       '@types/node':
         specifier: 22.1.0
         version: 22.1.0
@@ -114,8 +114,8 @@ packages:
   '@tsconfig/node20@20.1.4':
     resolution: {integrity: sha512-sqgsT69YFeLWf5NtJ4Xq/xAF8p4ZQHlmGW74Nu2tD4+g5fAsposc4ZfaaPixVu4y01BEiDCWLRDCvDM5JOsRxg==}
 
-  '@tsconfig/strictest@2.0.5':
-    resolution: {integrity: sha512-ec4tjL2Rr0pkZ5hww65c+EEPYwxOi4Ryv+0MtjeaSQRJyq322Q27eOQiFbuNgw2hpL4hB1/W/HBGk3VKS43osg==}
+  '@tsconfig/strictest@2.0.8':
+    resolution: {integrity: sha512-XnQ7vNz5HRN0r88GYf1J9JJjqtZPiHt2woGJOo2dYqyHGGcd6OLGqSlBB6p1j9mpzja6Oe5BoPqWmeDx6X9rLw==}
 
   '@types/node@22.1.0':
     resolution: {integrity: sha512-AOmuRF0R2/5j1knA3c6G3HOk523Ga+l+ZXltX8SF1+5oqcXijjfTd8fY3XRZqSihEu9XhtQnKYLmkFaoxgsJHw==}
@@ -219,7 +219,7 @@ snapshots:
 
   '@tsconfig/node20@20.1.4': {}
 
-  '@tsconfig/strictest@2.0.5': {}
+  '@tsconfig/strictest@2.0.8': {}
 
   '@types/node@22.1.0':
     dependencies:
